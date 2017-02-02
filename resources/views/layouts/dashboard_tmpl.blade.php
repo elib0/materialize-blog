@@ -10,6 +10,7 @@
 
 @section('body')
   @section('content')@show
+    hola
 @endsection
 
 @section('footer')@endsection
